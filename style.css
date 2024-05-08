@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "chemi fonti 1";
+    src: url("fonts/OldStandardTT-Bold.ttf");
+}
+
+
+
+@font-face {
+    font-family: "chemi fonti 2";
+    src: url("fonts/OldStandardTT-Regular.ttf");
+}
+
+
+
+h3 {
+    font-family: "chemi fonti 1";
+}
+
+
+p {
+    font-family: "chemi fonti 2";
+}
+
+
+
